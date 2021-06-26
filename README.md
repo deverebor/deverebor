@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
 <h1 align="center">Prazer <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Lucas Souza!</h1>
-<h3 align="center">Desenvolvedor Web <b>Front-End</b> e <b>Back-End</b></h3>
+<h3 align="center">Desenvolvedor Web <b>Front-End</b></h3>
 <br>
 <br>
 
