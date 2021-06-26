@@ -13,10 +13,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="50" height="50"/>
 <img src="https://img.icons8.com/color/452/sass.png" alt="sass" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-<img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="angular" width="50" height="50">
 <img src="https://img.icons8.com/dusk/64/000000/php-logo.png" alt="php" width="50" height="50">
-<img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="laravel" width="50" height="50">
-<img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" alt="mysql" width="50" height="50">
 <img src="https://cdn.iconscout.com/icon/free/png-512/linux-17-570099.png" alt="linux" width="50" height="50">
 
 
