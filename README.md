@@ -20,7 +20,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/linux-17-570099.png" alt="linux" width="50" height="50">
 
 
-* Atualmente estudando <b>ReactJS</b>.
+* Atualmente estudando <b>React</b>.
 * Participando ativamente da comunidade [HUB Tech](https://ahub.tech/discord)
 </p>
 <br>
