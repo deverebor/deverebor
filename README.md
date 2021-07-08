@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Lucas 🖖🏾</h1>
 
-<p>Currently looking for a full front-end job and graduating in Bachelor of Information Systems - Fourth Semester.</p>
+<p>Currently looking for a full front-end job and majoring in Bachelor of Information Systems - Fourth Semester. I'm also doing Ignite by RocketSeat.</p>
 
 <hr>
 
