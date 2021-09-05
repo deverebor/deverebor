@@ -5,7 +5,7 @@
 <p>Currently looking for a full front-end job and majoring in Bachelor of Information Systems - Fourth Semester. I'm also doing Ignite by RocketSeat.</p>
 
 <hr>
-<h5>⚓ Back-end</h5>
+<h3>⚓ Back-end</h3>
 
 <left>
     <a href="#">
@@ -25,7 +25,7 @@
     </a>
 </left>
 
-<h5>📏 Front-end</h5>
+<h3>📏 Front-end</h3>
 
 <left>
     <a href="#">
@@ -58,7 +58,7 @@
     
 </left>
 
-<h4>🤿 You can find me around...</h4>
+<h3>🤿 You can find me around...</h3>
 
 <left>
     <a href="https://open.spotify.com/user/911l5k0lyqc6ll6i6hhxhgan8">
