@@ -5,7 +5,7 @@
 <p>Currently looking for a full front-end job and majoring in Bachelor of Information Systems - Fourth Semester. I'm also doing Ignite by RocketSeat.</p>
 
 <hr>
-<h3>⚓ Back-end</h3>
+<h4>⚓ Back-end</h4>
 
 <left>
     <a href="#">
@@ -25,7 +25,7 @@
     </a>
 </left>
 
-<h3>📏 Front-end</h3>
+<h4>📏 Front-end</h4>
 
 <left>
     <a href="#">
@@ -58,7 +58,7 @@
     
 </left>
 
-<h3>🤿 You can find me around...</h3>
+<h4>🤿 You can find me around...</h4>
 
 <left>
     <a href="https://open.spotify.com/user/911l5k0lyqc6ll6i6hhxhgan8">
@@ -72,7 +72,7 @@
     </a>
 </left>
 <hr>
-<h3>⚡ Some statistics from my profile</h3>
+<h4>⚡ Some statistics from my profile</h4>
 <div>
   <a href="https://github.com/deverebor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deverebor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
