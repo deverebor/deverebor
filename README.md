@@ -5,6 +5,12 @@
 <p>Currently looking for a full front-end job and majoring in Bachelor of Information Systems - Fourth Semester. I'm also doing Ignite by RocketSeat.</p>
 
 <hr>
+<div>
+  <a href="https://github.com/deverebor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deverebor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deverebor&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<hr>
 
 <h5>⚓ Back-end</h5>
 
@@ -13,7 +19,7 @@
         <img height="20px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     </a>
     <a href="#">
-        <img height="20px" src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=Java&logoColor=black">
+        <img height="20px" src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=Java&logoColor=white">
     </a>
     <a href="#">
         <img height="20px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -68,11 +74,7 @@
     <a href="https://www.linkedin.com/in/lucas-souza-dev/">
         <img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+    <a href = "mailto:lucasp.sdev@gmail.com">
+    <img height="20px"src="https://img.shields.io/badge/-Gmail-E34F26?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
 </left>
-<br>
-<br>
-
-<!--[![Lucas Souza's github stats](https://github-readme-stats.vercel.app/api?username=deverebor&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deverebor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">📧 lucasp.sdev@gmail.com</p>
