@@ -73,6 +73,7 @@
 </left>
 <hr>
 <br>
+<h4>⚡ Some statistics from my profile</h4>
 <div>
   <a href="https://github.com/deverebor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deverebor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
