@@ -13,6 +13,9 @@
         <img height="20px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     </a>
     <a href="#">
+        <img height="20px" src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=Java&logoColor=black">
+    </a>
+    <a href="#">
         <img height="20px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     </a>
     <a href="#">
@@ -68,4 +71,8 @@
 </left>
 <br>
 <br>
-    <p align="center">📧 lucasp.sdev@gmail.com</p>
+
+<!--[![Lucas Souza's github stats](https://github-readme-stats.vercel.app/api?username=deverebor&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deverebor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">📧 lucasp.sdev@gmail.com</p>
