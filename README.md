@@ -12,7 +12,10 @@
         <img height="20px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     </a>
     <a href="#">
-        <img height="20px" src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=Java&logoColor=white">
+        <img height="20px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    </a>
+    <a href="#">
+        <img height="20px" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
     </a>
     <a href="#">
         <img height="20px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -56,6 +59,18 @@
         <img height="20px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     </a>
     
+    
+</left>
+
+<h4>💎 UI/UX</h4>
+
+<left>
+    <a href="#">
+        <img height="20px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    </a>
+    <a href="#">
+        <img height="20px" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
+    </a>     
 </left>
 
 <h4>🤿 You can find me around...</h4>
@@ -66,9 +81,6 @@
     </a>
     <a href="https://www.linkedin.com/in/lucas-souza-dev/">
         <img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href = "mailto:lucasp.sdev@gmail.com">
-    <img height="20px"src="https://img.shields.io/badge/-Gmail-E34F26?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
 </left>
 <hr>
