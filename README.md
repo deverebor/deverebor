@@ -62,17 +62,6 @@
     
 </left>
 
-<h4>💎 UI/UX</h4>
-
-<left>
-    <a href="#">
-        <img height="20px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    </a>
-    <a href="#">
-        <img height="20px" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
-    </a>     
-</left>
-
 <h4>🤿 You can find me around...</h4>
 
 <left>
@@ -83,7 +72,9 @@
         <img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </left>
+
 <hr>
+
 <h4>⚡ Some statistics from my profile</h4>
 <div>
   <a href="https://github.com/deverebor">
