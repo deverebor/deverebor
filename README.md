@@ -6,7 +6,7 @@ Currently looking for a full front-end job and majoring in Bachelor of Informati
 
 <hr>
 
-##### ⚓ Back-end
+#### ⚓ Back-end
 
 <left>
     <a href="#">
@@ -29,7 +29,7 @@ Currently looking for a full front-end job and majoring in Bachelor of Informati
     </a>
 </left>
 
-##### 📏 Front-end
+#### 📏 Front-end
 
 <left>
     <a href="#">
@@ -63,7 +63,7 @@ Currently looking for a full front-end job and majoring in Bachelor of Informati
     
 </left>
 
-##### 🤿 You can find me around...
+#### 🤿 You can find me around...
 
 <left>
     <a href="https://open.spotify.com/user/911l5k0lyqc6ll6i6hhxhgan8">
@@ -76,7 +76,7 @@ Currently looking for a full front-end job and majoring in Bachelor of Informati
 
 <hr>
 
-##### ⚡ Some statistics from my profile
+#### ⚡ Some statistics from my profile
 
 <div>
   <a href="https://github.com/deverebor">
