@@ -1,11 +1,12 @@
-<img align="right" src="erebor.svg" width=250px />
+<img align="right" src="assets/img/erebor.svg" width=250px />
 
-<h1>Hi, I'm Lucas 🖖🏾</h1>
+# Hi, I'm Lucas 🖖🏾
 
-<p>Currently looking for a full front-end job and majoring in Bachelor of Information Systems - Fourth Semester. I'm also doing Ignite by RocketSeat.</p>
+Currently looking for a full front-end job and majoring in Bachelor of Information Systems - Fourth Semester. I'm also doing Ignite by RocketSeat.
 
 <hr>
-<h4>⚓ Back-end</h4>
+
+##### ⚓ Back-end
 
 <left>
     <a href="#">
@@ -28,7 +29,7 @@
     </a>
 </left>
 
-<h4>📏 Front-end</h4>
+##### 📏 Front-end
 
 <left>
     <a href="#">
@@ -62,7 +63,7 @@
     
 </left>
 
-<h4>🤿 You can find me around...</h4>
+##### 🤿 You can find me around...
 
 <left>
     <a href="https://open.spotify.com/user/911l5k0lyqc6ll6i6hhxhgan8">
@@ -75,7 +76,8 @@
 
 <hr>
 
-<h4>⚡ Some statistics from my profile</h4>
+##### ⚡ Some statistics from my profile
+
 <div>
   <a href="https://github.com/deverebor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deverebor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
