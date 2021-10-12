@@ -5,9 +5,9 @@
 <img src="assets/img/erebor.svg" align="left" width="220" style="margin-right: 10px" />
 
 ```typescript
-import { erebor } from 'developer/coding'
+import { LucasSouza } from 'developer/coding'
 
-const Lucas: erebor = {
+const erebor: LucaSouza = {
    Pronouns: He/Him,
 
    Location: Salvador - BA,
