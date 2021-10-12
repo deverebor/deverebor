@@ -7,7 +7,7 @@
 ```typescript
 import { erebor } from 'developer/coding'
 
-const Lucas as erebor = {
+const Lucas: erebor = {
    Pronouns: He/Him,
 
    Location: Salvador - BA,
