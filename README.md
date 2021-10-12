@@ -2,7 +2,11 @@
 > Lucas Souza
 ```
 
-<img src="assets/img/erebor.svg" align="left" width="220" style="margin-right: 10px" />
+<!-- <a href="https://storyset.com/technology">Technology illustrations by Storyset</a> -->
+
+
+
+<img src="assets/video/erebor.gif" align="left" width="225" style="margin-right: 10px" />
 
 ```typescript
 import { LucasSouza } from 'developer/coding'
