@@ -4,7 +4,7 @@
 
 <img src="assets/img/erebor.svg" align="left" width="220" style="margin-right: 10px" />
 
-```typescript
+```csharp
 oerebor@github
 --------------
 
