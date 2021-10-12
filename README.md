@@ -6,7 +6,7 @@
 
 
 
-<img src="assets/video/erebor.gif" align="left" width="225" style="margin-right: 10px" />
+<img src="assets/img/erebor.svg" align="left" width="225" style="margin-right: 10px" />
 
 ```typescript
 import { LucasSouza } from 'developer/coding'
