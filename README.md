@@ -12,11 +12,11 @@ const Lucas as erebor = {
 
    Location: Salvador - BA,
    
-   UI/UX: Figma, GIMP, PhotoShop, KDEnlive
+   UI/UX: Figma, GIMP, PhotoShop, KDEnlive,
 
-   Front-End: HTML, CSS, SCSS, TypeScript, Javascript, React, Next,
+   FrontEnd: HTML, CSS, SCSS, TypeScript, Javascript, React, Next,
 
-   Back-End: PHP, Django, Java, Insomnia,
+   BackEnd: PHP, Django, Java, Insomnia,
 
    Hobbies: basketball, read books, listening to music, playing rpgs and more,
 
