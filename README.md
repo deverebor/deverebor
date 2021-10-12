@@ -11,6 +11,8 @@ const Lucas as erebor = {
    Pronouns: He/Him,
 
    Location: Salvador - BA,
+   
+   UI/UX: Figma, GIMP, PhotoShop, KDEnlive
 
    Front-End: HTML, CSS, SCSS, TypeScript, Javascript, React, Next,
 
