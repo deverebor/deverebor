@@ -20,7 +20,7 @@ Hobbies: basketball
 
 Work: Full-Stack Developer at tdb-devs
 
-Study: Bachelor of Information Systems - fourth semester, 
+Study: Bachelor of Information Systems - fourth semester, Ignite by Rocketseat 
 ```
 
 #### 🐱‍👤 You can find me around...
