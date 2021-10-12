@@ -4,23 +4,24 @@
 
 <img src="assets/img/erebor.svg" align="left" width="220" style="margin-right: 10px" />
 
-```csharp
-oerebor@github
---------------
+```typescript
+import { erebor } from 'developer/coding'
 
-Pronouns: He/Him
+const Lucas as erebor = {
+   Pronouns: He/Him,
 
-Location: Salvador - BA
+   Location: Salvador - BA,
 
-Front-End: HTML, CSS, SCSS, TypeScript, Javascript, React, Next
+   Front-End: HTML, CSS, SCSS, TypeScript, Javascript, React, Next,
 
-Back-End: PHP, Django, Java, Insomnia
+   Back-End: PHP, Django, Java, Insomnia,
 
-Hobbies: basketball
+   Hobbies: basketball, read books, listening to music, playing rpgs and more,
 
-Work: Full-Stack Developer at tdb-devs
+   Work: Full-Stack Developer at tdb-devs,
 
-Study: Bachelor of Information Systems - fourth semester, Ignite by Rocketseat 
+   Study: Bachelor of Information Systems - fourth semester, Ignite by Rocketseat,
+}
 ```
 
 #### 🐱‍👤 You can find me around...
