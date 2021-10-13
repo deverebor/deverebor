@@ -22,7 +22,7 @@ const About: Lucas = {
 
    Location: Salvador - BA,
    
-   Hobbies: basketball, read books, listening to music, playing rpgs and more,
+   Hobbies: basketball, write poetry, listening to music, freestyle rap and more,
 
    Work: Full-Stack Developer at tdb-devs,
 
