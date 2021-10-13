@@ -10,7 +10,7 @@
 import { Lucas } from 'erebor/developer'
 
 const Skills: Lucas = {
-   UI/UX: Figma, GIMP, PhotoShop, KDEnlive,
+   UiUx: Figma, GIMP, PhotoShop, KDEnlive,
 
    FrontEnd: HTML, CSS, SCSS, TypeScript, Javascript, React, Next,
 
