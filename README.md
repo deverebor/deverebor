@@ -1,27 +1,27 @@
 ```zsh
-> Lucas Souza
+> yarn add @types/erebor
 ```
 
 <!-- <a href="https://storyset.com/technology">Technology illustrations by Storyset</a> -->
 
-
-
 <img src="assets/img/erebor.svg" align="left" width="225" style="margin-right: 10px" />
 
 ```typescript
-import { LucasSouza } from 'developer/coding'
+import { Lucas } from 'erebor/developer'
 
-const erebor: LucaSouza = {
-   Pronouns: He/Him,
-
-   Location: Salvador - BA,
-   
+const Skills: Lucas = {
    UI/UX: Figma, GIMP, PhotoShop, KDEnlive,
 
    FrontEnd: HTML, CSS, SCSS, TypeScript, Javascript, React, Next,
 
    BackEnd: PHP, Django, Java, Insomnia,
+}
 
+const About: Lucas = {
+   Pronouns: He/Him,
+
+   Location: Salvador - BA,
+   
    Hobbies: basketball, read books, listening to music, playing rpgs and more,
 
    Work: Full-Stack Developer at tdb-devs,
