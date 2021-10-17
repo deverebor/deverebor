@@ -24,8 +24,8 @@ const About: Lucas = {
    
    Hobbies:{
       basketball: "8 years", 
-      write poetry: "10 years", 
-      freestyle rap: "5 years",
+      writePoetry: "10 years", 
+      freestyleRap: "5 years",
       },
 
    Work: Full-Stack Developer at tdb-devs,
