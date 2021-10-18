@@ -51,6 +51,12 @@ const About: Lucas = {
    </a>
 </left>
 
+<div align="center">
+   
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%239C0000&center=true&vCenter=true&lines=sudo+rm+rf+%2F)](https://git.io/typing-svg)
+   
+</div>
+
 <hr />
 
 #### ⚡ Some statistics from my profile
@@ -60,3 +66,4 @@ const About: Lucas = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deverebor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deverebor&layout=compact&langs_count=6&theme=dark"/>
 </div>
+   
