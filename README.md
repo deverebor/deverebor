@@ -4,7 +4,7 @@
 
 <!-- <a href="https://storyset.com/technology">Technology illustrations by Storyset</a> -->
 
-<img src="assets/img/erebor.svg" align="left" width="225" style="margin-right: 10px" />
+<img src="https://www.hugp.com/research/assets/img/gif/pc.gif" align="left" height="auto" width="300px" style="margin-right: 10px" />
 
 ```typescript
 import { Lucas } from 'erebor/developer'
