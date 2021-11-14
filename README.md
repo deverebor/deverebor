@@ -4,9 +4,11 @@
 
 <!-- <a href="https://storyset.com/technology">Technology illustrations by Storyset</a> -->
 
-<!-- <img src="https://www.hugp.com/research/assets/img/gif/pc.gif" align="left" height="auto" width="300px" style="margin-right: 10px" /> -->
+<!-- <a href="https://app.daily.dev/Erebor"><img src="https://api.daily.dev/devcards/eb92cdb309e447f2a5f2c0e0af144773.png?r=p41" width="300" alt="Lucas Souza's Dev Card" /></a> -->
 
-<a href="https://app.daily.dev/Erebor"><img src="https://api.daily.dev/devcards/eb92cdb309e447f2a5f2c0e0af144773.png?r=p41" width="300" alt="Lucas Souza's Dev Card" align="left" height="auto" width="300px" style="margin-right: 10px;"/></a>
+<!--  <a href="https://app.daily.dev/Erebor"><img src="https://api.daily.dev/devcards/eb92cdb309e447f2a5f2c0e0af144773.png?r=yed" width="300" alt="Lucas Souza's Dev Card" align="left" height="auto" width="300px" style="margin-right: 10px;"/></a> -->
+
+ <img src="https://www.hugp.com/research/assets/img/gif/pc.gif" align="left" height="auto" width="300px" style="margin-right: 10px" />
 
 ```typescript
 import { Lucas } from 'erebor/developer'
