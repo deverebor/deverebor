@@ -16,9 +16,11 @@ import { Lucas } from 'erebor/developer'
 const Skills: Lucas = {
    UiUx: Figma, GIMP, PhotoShop, KDEnlive, 
 
-   FrontEnd: HTML, SCSS, TypeScript, Javascript, Vue, React, Next,
+   FrontEnd: HTML, SCSS, TypeScript, Javascript, Angular,Vue, React, Next,
 
-   BackEnd: PHP, Django, Java, Insomnia, 
+   BackEnd: PHP, Django, Java, Insomnia,
+   
+   Mobile: Ionic,
 }
 
 const About: Lucas = {
@@ -38,7 +40,7 @@ const About: Lucas = {
    },
 
    Study:{
-      Bachelor of Information Systems: "fourth semester", 
+      Bachelor of Information Systems: "fifth semester", 
       Ignite by Rocketseat: "completed",
       },
 }
