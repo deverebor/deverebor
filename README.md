@@ -33,7 +33,7 @@ const About: Lucas = {
       },
 
    Work:{
-      current: Front-End Developer at JuntosSomosMais,
+      current: Software-Engineer Developer at JuntosSomosMais,
       former: Full-Stack Developer at tdb-devs,
    },
 
