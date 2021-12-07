@@ -33,7 +33,7 @@ const About: Lucas = {
       },
 
    Work:{
-      current: Software-Engineer Developer at JuntosSomosMais,
+      current: Software-Engineer at JuntosSomosMais,
       former: Full-Stack Developer at tdb-devs,
    },
 
@@ -62,7 +62,7 @@ const About: Lucas = {
 
 <div align="center">
    
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%239C0000&center=true&vCenter=true&lines=sudo+rm+rf+%2F)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Regular&color=%23C84343&size=22&lines=sudo+rm+-rf+%2F)](https://git.io/typing-svg)
    
 </div>
 
