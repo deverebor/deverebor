@@ -14,13 +14,11 @@
 import { Lucas } from 'erebor/developer'
 
 const Skills: Lucas = {
-   UiUx: Figma, GIMP, PhotoShop, KDEnlive, 
 
    FrontEnd: SCSS, TypeScript, Javascript, Angular, Vue, React, Next,
 
-   BackEnd: PHP, Django, Java, Insomnia,
+   BackEnd: PHP, Django,
    
-   Mobile: Ionic,
 }
 
 const About: Lucas = {
@@ -28,21 +26,21 @@ const About: Lucas = {
 
    Location: Salvador - BA,
    
-   Hobbies:{
+   Hobbies: {
       basketball: "8 years", 
       writePoetry: "10 years", 
       freestyleRap: "5 years",
-      },
+   },
 
-   Work:{
+   Work: {
       current: Software-Engineer at JuntosSomosMais,
       former: Full-Stack Developer at tdb-devs,
    },
 
-   Study:{
+   Study: {
       Bachelor of Information Systems: "fifth semester", 
       Ignite by Rocketseat: "completed",
-      },
+   },
 }
 ```
 
@@ -68,7 +66,7 @@ const About: Lucas = {
    
 </div>
 
-<hr />
+---
 
 #### ⚡ Some statistics from my profile
 
