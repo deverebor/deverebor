@@ -16,28 +16,34 @@
 
 <!-- Title -->
 <div align="center">
-  <h1 align="center">G A B R I E L &nbsp; F E R N A N D E S</h1>
-  <b>Student | Developer</b>
+  <h1>Lucas Souza</h1>
+  <h5>Or just Erebor</h5>
+  <p><b>Student | Software Engineer</b></p>
 </div>
-
-<br/>
 
 <!-- Main Content -->
 <p align="justify">
   &nbsp;&nbsp;&nbsp;
-  
-  Hello you! I´m a Brazilian FullStack Developer and I Teach everything I learn about Programming on my [Youtube Channel](https://www.youtube.com/channel/UCblely93wOCb_SvE_HOpOEA).
 
- I tell a bit more about me on my [Linked-In](https://www.linkedin.com/in/seufernandez/)
+   <b>Hello friend 👋🏽</b>
+   
+   Passionate about technology since I was 15, I study it for 5 years and
+   adventure in creating things since then. Create, discover and change is
+   what moves me, i love it. I like the **back-end** as much as the
+   **front-end** but the front is where I stand out :).
+
+   I work at <a href="https://loja.juntossomosmais.com.br/home" target="_blank">Juntos Somos Mais 🧡</a> as a Software Engineer.
+
+   Every day I fall more in love with **Vue** and **Next**.
 </p>
 
 
-### Things I don´t tell on my Linked-In:
+### Things I don´t tell on my Linked-In
 
-- I play Guitar and sing sometimes when the codes starts boring, so... sorry neighbors
-- I learn things **by myself**, but unfortunately they don´t understand this on **driving school**
-- I started to make things on computer when my school once prohibited Hoodies in winter, then me and some friends started to make fun of it making memes and was my first time using Photoshop :)
-- Sometimes I code listening to [this](https://youtu.be/8puBny7K11Q), looks like Im coding on some party backstage after a time travel idk
+- I compose songs well before thinking about programming.
+- I'm in love with basketball, I've played for almost 8 years and I've even won student championships for the #GoHillWolves team!
+- My first website had a total design of 90, but I think these days it wouldn't make sense hahaha.
+- In addition to participating in rap battles, I've also won beatbox championships!
 
 ---
 
