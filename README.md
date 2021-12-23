@@ -18,15 +18,17 @@
 <div align="center">
   <h1>Lucas Souza</h1>
   <h5>Or just Erebor</h5>
-  <p><b>Student | Software Engineer</b></p>
+  <p><strong>Student | Software Engineer</strong></p>
 </div>
+
+<img src="assets/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Laptop">
 
 <!-- Main Content -->
 <p align="justify">
   &nbsp;&nbsp;&nbsp;
 
    <b>Hello friend 👋🏽</b>
-   
+
    Passionate about technology since I was 15, I study it for 5 years and
    adventure in creating things since then. Create, discover and change is
    what moves me, i love it. I like the **back-end** as much as the
@@ -36,7 +38,6 @@
 
    Every day I fall more in love with **Vue** and **Next**.
 </p>
-
 
 ### Things I don´t tell on my Linked-In
 
