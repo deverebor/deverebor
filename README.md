@@ -1,5 +1,5 @@
 <p align="center">
-  <code>#React</code> &nbsp; <code>#NextJS</code> &nbsp; <code>#VueJS</code> &nbsp; <code>#TypeScript</code> &nbsp; <code>#JavaScript</code> &nbsp; <code>#SCSS</code> &nbsp;<code>#Django</code> &nbsp;
+  <code>#ReactJS</code> &nbsp; <code>#NextJS</code> &nbsp; <code>#VueJS</code> &nbsp; <code>#TypeScript</code> &nbsp; <code>#JavaScript</code> &nbsp; <code>#SCSS</code> &nbsp;<code>#Django</code> &nbsp;
 </p>
 
 <br/>
@@ -16,8 +16,6 @@
 
 <!-- Title -->
 <div align="center">
-  <h1>Lucas Souza</h1>
-  <h5>Or just Erebor</h5>
   <p><strong>Student | Software Engineer</strong></p>
 </div>
 
