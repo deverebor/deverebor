@@ -1,5 +1,5 @@
 <p align="center">
-  <code>#ReactJS</code> &nbsp; <code>#NextJS</code> &nbsp; <code>#VueJS</code> &nbsp; <code>#TypeScript</code> &nbsp; <code>#JavaScript</code> &nbsp; <code>#SCSS</code> &nbsp;<code>#Django</code> &nbsp;
+  <code>#ReactJS</code> &nbsp; <code>#NextJS</code> &nbsp; <code>#VueJS</code> &nbsp; <code>#TypeScript</code> &nbsp; <code>#JavaScript</code> &nbsp; <code>#SCSS</code> &nbsp;<code>#Django</code>
 </p>
 
 <br/>
@@ -19,7 +19,7 @@
   <p><strong>Student | Software Engineer</strong></p>
 </div>
 
-<img src="assets/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Laptop">
+<img src="assets/img/computer-illustration.png" min-width="400px" max-width="400px" width="500px" align="right" alt="Laptop">
 
 <!-- Main Content -->
 <p align="justify">
