@@ -1,5 +1,5 @@
 <p align="center">
-  <code>#ReactJS</code> &nbsp; <code>#NextJS</code> &nbsp; <code>#VueJS</code> &nbsp; <code>#TypeScript</code> &nbsp; <code>#JavaScript</code> &nbsp; <code>#SCSS</code> &nbsp;<code>#Django</code>
+  <code>#TypeScript</code> &nbsp; <code>#ReactJS</code> &nbsp; <code>#NextJS</code> &nbsp; <code>#VueJS</code> &nbsp; <code>#SCSS</code> &nbsp;<code>#Django</code> &nbsp;<code>#FastAPI</code>
 </p>
 
 <br/>
@@ -9,7 +9,7 @@
   <a href="https://www.oerebor.dev/" title="Learn With Me">
     <img alt="My website" src="https://img.shields.io/badge/oerebor.dev-%20-red"></a>
   <a href="https://dev.to/deverebor" title="Follow Me">
-    <img src="https://img.shields.io/badge/Dev.To-%20%20-orange" alt="DevTo" /></a>
+    <img src="https://img.shields.io/badge/Dev.To-%20%20-black" alt="DevTo" /></a>
   <a href="https://www.linkedin.com/in/lucas-souza-dev/" title="Conect with me">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Linked--In-%20%20%20%20-blue"></a>
 </div>
@@ -19,22 +19,22 @@
   <p><strong>Student | Software Engineer</strong></p>
 </div>
 
-<img src="assets/img/computer-illustration.png" min-width="400px" max-width="400px" width="500px" align="right" alt="Laptop">
+<img src="assets/img/Typing-bro.svg" min-width="400px" width="380px" align="right" alt="Laptop">
 
 <!-- Main Content -->
 <p align="justify">
   &nbsp;&nbsp;&nbsp;
 
-   <b>Hello friend 👋🏽</b>
+   <strong>Hello friend 👋🏽</strong>
 
    Passionate about technology since I was 15, I study it for 5 years and
    adventure in creating things since then. Create, discover and change is
    what moves me, i love it. I like the **back-end** as much as the
    **front-end** but the front is where I stand out :).
 
-   I work at <a href="https://loja.juntossomosmais.com.br/home" target="_blank">Juntos Somos Mais 🧡</a> as a Software Engineer.
+   I work at <a href="https://loja.juntossomosmais.com.br/home" target="_blank">Juntos Somos Mais 🧡</a> as a Front-End Software Engineer.
 
-   Every day I fall more in love with **Vue** and **Next**.
+   Every day I fall more in love with **Vue** and **FastAPI**.
 </p>
 
 ### Things I don´t tell on my Linked-In
