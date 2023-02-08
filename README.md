@@ -59,24 +59,21 @@
   Frameworks like React and Next.
 </pre>
 
+<pre width="100%">
+  <h3>More about me</h3>
+  - I compose songs well before thinking about programming.
 
+  - I've played basketball for almost 8 years in a roll
+  and I've even won student championships
+  for the #GoHillWolves team!
 
+  - My first website had a total design of 90,
+  but I think these days it wouldn't make sense hahaha.
 
-<pre>
-<h3>More about me</h3>
-- I compose songs well before thinking about programming.
+  - In addition to participating in rap battles,
+  I've also won beatbox championships!
 
-- I've played basketball for almost 8 years in a roll
-and I've even won student championships
-for the #GoHillWolves team!
-
-- My first website had a total design of 90,
-but I think these days it wouldn't make sense hahaha.
-
-- In addition to participating in rap battles,
-I've also won beatbox championships!
-
-- I'm an extremely fan of Rapper MF DOOM's work
+  - I'm an extremely fan of Rapper MF DOOM's work
 </pre>
 
 <!-- <img
