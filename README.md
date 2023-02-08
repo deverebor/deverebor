@@ -60,12 +60,7 @@
 </pre>
 
 
-<img
-  align="right"
-  width="360px"
-  height="450px"
-  src="https://github-readme-stats.vercel.app/api?username=deverebor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-/>
+
 
 <pre>
 <h3>More about me</h3>
@@ -85,8 +80,13 @@ I've also won beatbox championships!
 </pre>
 
 <!-- <img
-  align="right"
-  width="100%"
-  height="200"
+  width="50%"
+  align="center"
+  src="https://github-readme-stats.vercel.app/api?username=deverebor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+/>
+
+<img
+  width="50%"
+  align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=deverebor&layout=compact&langs_count=6&theme=dark"
 /> -->
