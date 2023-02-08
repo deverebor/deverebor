@@ -1,8 +1,12 @@
 <p align="center">
-  <code>#TypeScript</code> &nbsp; <code>#ReactJS</code> &nbsp; <code>#NextJS</code> &nbsp; <code>#VueJS</code> &nbsp; <code>#SCSS</code> &nbsp;<code>#Django</code> &nbsp;<code>#FastAPI</code>
+  <code>#TypeScript</code> &nbsp;
+  <code>#ReactJS</code> &nbsp;
+  <code>#NextJS</code> &nbsp;
+  <code>#VueJS</code> &nbsp;
+  <code>#SCSS</code> &nbsp;
+  <code>#Django</code> &nbsp;
+  <code>#FastAPI</code>
 </p>
-
-&nbsp;
 
 <!-- Icons -->
 <div align="center">
@@ -23,34 +27,48 @@
 
 &nbsp;
 
-<img src="https://cdn.dribbble.com/users/965184/screenshots/14302941/doom-final-dribbble2.gif" min-width="400px" width="450px" align="right" alt="MFDOOM image">
+<img
+  src="https://cdn.dribbble.com/users/965184/screenshots/14302941/doom-final-dribbble2.gif"
+  min-width="400px"
+  width="450px"
+  height="380"
+  align="right"
+  alt="MFDOOM image"
+/>
 
 <!-- Main Content -->
 <pre align="justify">
-    <strong>Hello friend 👋🏽</strong>
+  <strong>Hello friend 👋🏽</strong>
 
-    I currently work at <a href="https://loja.juntossomosmais.com.br/home" target="_blank">Juntos Somos Mais 🧡</a>
-    as a Front-End Software Engineer.
+  I currently work at <a href="https://loja.juntossomosmais.com.br/home" target="_blank">Juntos Somos Mais 🧡</a>
+  as a Front-End Software Engineer.
 
-    Passionate about technology since I was 15,
-    I've been studying since that day.
+  Passionate about technology since I was 15,
+  I've been studying since that day.
 
-    Always me ventured into creating things,
-    discovering and changing is what moves me.
+  Always me ventured into creating things,
+  discovering and changing is what moves me.
 
-    I love to learn and teach.
+  I love to learn and teach.
 
-    Vue Evangelist, I'm always looking for
-    new ways to improve my code.
+  Vue Evangelist, I'm always looking for
+  new ways to improve my code.
 
-    Even though I love Vue, I always study
-    and improve my knowledge in other
-    Frameworks like React and Next.
+  Even though I love Vue, I always study
+  and improve my knowledge in other
+  Frameworks like React and Next.
 </pre>
+
+
+<img
+  align="right"
+  width="360px"
+  height="450px"
+  src="https://github-readme-stats.vercel.app/api?username=deverebor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+/>
 
 <pre>
 <h3>More about me</h3>
-
 - I compose songs well before thinking about programming.
 
 - I've played basketball for almost 8 years in a roll
@@ -66,13 +84,9 @@ I've also won beatbox championships!
 - I'm an extremely fan of Rapper MF DOOM's work
 </pre>
 
----
-
-<h3>⚡ Some statistics from my profile</h3>
-
-<div align="center">
-  <a href="https://github.com/deverebor">
-        <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=deverebor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deverebor&layout=compact&langs_count=6&theme=dark"/>
-  </a>
-</div>
+<!-- <img
+  align="right"
+  width="100%"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deverebor&layout=compact&langs_count=6&theme=dark"
+/> -->
