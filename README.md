@@ -49,7 +49,7 @@
   Always me ventured into creating things,
   discovering and changing is what moves me.
 
-  I love to learn and teach.
+  I love learning and teaching.
 
   Vue Evangelist, I'm always looking for
   new ways to improve my code.
