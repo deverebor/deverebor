@@ -40,8 +40,8 @@
 <pre align="justify">
   <strong>Hello friend 👋🏽</strong>
 
-  I currently looking for a FE JOB
-  as a Front-End Software Engineer.
+  I currently looking for
+  a Front-End Software Engineer job.
 
   Passionate about technology since I was 15,
   I've been studying since that day.
