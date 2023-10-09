@@ -40,7 +40,7 @@
 <pre align="justify">
   <strong>Hello friend 👋🏽</strong>
 
-  I currently work at <a href="https://loja.juntossomosmais.com.br/home" target="_blank">Juntos Somos Mais 🧡</a>
+  I currently looking for a FE JOB
   as a Front-End Software Engineer.
 
   Passionate about technology since I was 15,
