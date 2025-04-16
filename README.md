@@ -1,7 +1,7 @@
 <p align="center">
   <code>#TypeScript</code> &nbsp;
   <code>#ReactJS</code> &nbsp;
-  <code>#NextJS</code> &nbsp;
+  <code>#Angular</code> &nbsp;
   <code>#VueJS</code> &nbsp;
   <code>#SCSS</code> &nbsp;
   <code>#Django</code> &nbsp;
