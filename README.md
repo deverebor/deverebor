@@ -56,7 +56,7 @@
 
   Even though I love Vue, I always study
   and improve my knowledge in other
-  Frameworks like React and Next.
+  Frameworks like Angular and Next.
 </pre>
 
 <pre width="100%">
