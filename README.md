@@ -40,8 +40,8 @@
 <pre align="justify">
   <strong>Hello friend 👋🏽</strong>
 
-  I currently work at <a href="https://atomoss.com.br/" target="_blank">Atomos Brasil 💙</a>
-  a Front-End Software Engineer job.
+  I currently work at <a href="" target="_blank">?</a>
+  as Mid Front-End Software Engineer job.
 
   Passionate about technology since I was 15,
   I've been studying since that day.
