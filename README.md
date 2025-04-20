@@ -1,11 +1,10 @@
 <p align="center">
-  <code>#TypeScript</code> &nbsp;
-  <code>#ReactJS</code> &nbsp;
   <code>#Angular</code> &nbsp;
+  <code>#React</code> &nbsp;
   <code>#VueJS</code> &nbsp;
   <code>#SCSS</code> &nbsp;
-  <code>#Django</code> &nbsp;
-  <code>#FastAPI</code>
+  <code>#TypeScript</code> &nbsp;
+  <code>#Accessibility Development</code> &nbsp;
 </p>
 
 <!-- Icons -->
