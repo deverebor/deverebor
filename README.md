@@ -4,6 +4,7 @@
   <code>#VueJS</code> &nbsp;
   <code>#SCSS</code> &nbsp;
   <code>#TypeScript</code> &nbsp;
+  <code>#NestJS</code> &nbsp;
   <code>#Accessibility Development</code> &nbsp;
 </p>
 
@@ -20,7 +21,7 @@
 <!-- Title -->
 <div align="center">
   <p>
-    <strong>Student | Software Engineer</strong>
+    <strong>Software Engineer</strong>
   </p>
 </div>
 
@@ -39,8 +40,8 @@
 <pre align="justify">
   <strong>Hello friend 👋🏽</strong>
 
-  I currently work at <a target="_blank">?</a>
-  as Senior Front-End Software Engineer job.
+  I currently work at <a target="_blank">Grupo Solução</a>
+  as Mid Fullstack Engineer(Flutter, Angular, NestJS) job.
 
   Passionate about technology since I was 15,
   I've been studying since that day.
