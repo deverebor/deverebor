@@ -28,7 +28,7 @@
 &nbsp;
 
 <img
-  src="https://cdn.dribbble.com/users/965184/screenshots/14302941/doom-final-dribbble2.gif"
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFja205MXY4dHB6aXZuc3ZhcTRmc2d2eTBsYjZidmE0NzQxbGlsOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QZDQNrmgwBnEO3ZEiI/giphy.gif"
   min-width="400px"
   width="500px"
   height="400px"
