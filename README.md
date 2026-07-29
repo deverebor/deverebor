@@ -28,7 +28,7 @@
 &nbsp;
 
 <img
-  src="https://tenor.com/b1G4F.gif"
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFja205MXY4dHB6aXZuc3ZhcTRmc2d2eTBsYjZidmE0NzQxbGlsOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QZDQNrmgwBnEO3ZEiI/giphy.gif"
   min-width="400px"
   width="480px"
   height="380px"
@@ -41,7 +41,7 @@
 <pre align="justify" width="90%">
   <strong>Hello friend 👋🏽</strong>
 
-  I currently work at <a target="https://gruposolucaoecia.com.br/">Grupo Solução</a>
+  I currently work at <a target="_blank" href="https://gruposolucaoecia.com.br/">Grupo Solução</a>
   as Mid Fullstack Engineer
   (Flutter, Angular, NestJS) job.
 
