@@ -30,8 +30,8 @@
 <img
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFja205MXY4dHB6aXZuc3ZhcTRmc2d2eTBsYjZidmE0NzQxbGlsOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QZDQNrmgwBnEO3ZEiI/giphy.gif"
   min-width="400px"
-  width="500px"
-  height="400px"
+  width="480px"
+  height="380px"
   border-radius= "25px"
   align="right"
   alt="MFDOOM image"
