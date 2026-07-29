@@ -30,8 +30,8 @@
 <img
   src="https://cdn.dribbble.com/users/965184/screenshots/14302941/doom-final-dribbble2.gif"
   min-width="400px"
-  width="490px"
-  height="410px"
+  width="510px"
+  height="400px"
   align="right"
   alt="MFDOOM image"
 />
