@@ -40,8 +40,9 @@
 <pre align="justify" width="90%">
   <strong>Hello friend 👋🏽</strong>
 
-  I currently work at <a target="_blank">Grupo Solução</a>
-  as Mid Fullstack Engineer(Flutter, Angular, NestJS) job.
+  I currently work at <a target="https://gruposolucaoecia.com.br/">Grupo Solução</a>
+  as Mid Fullstack Engineer
+  (Flutter, Angular, NestJS) job.
 
   Passionate about technology since I was 15,
   I've been studying since that day.
