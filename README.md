@@ -10,8 +10,8 @@
 
 <!-- Icons -->
 <div align="center">
-  <a href="https://www.oerebor.dev/" title="Learn With Me">
-    <img alt="My website" src="https://img.shields.io/badge/oerebor.dev-%20-red"></a>
+  <a href="https://www.souzatech.dev" title="Learn With Me">
+    <img alt="My website" src="https://img.shields.io/badge/souzatech.dev%20-red"></a>
   <a href="https://dev.to/deverebor" title="Follow Me">
     <img src="https://img.shields.io/badge/Dev.To-%20%20-black" alt="DevTo" /></a>
   <a href="https://www.linkedin.com/in/lucas-souza-dev/" title="Conect with me">
